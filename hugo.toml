@@ -5,3 +5,34 @@ theme = 'risotto'
 
 sectionPagesMenu = 'main'
 copyright = 'A Furry Tech project.'
+
+DefaultContentLanguage = "en-us"
+enableInlineShortcodes = true
+
+paginate = 3
+
+[params.theme]
+palette = "tokyo-night-dark"
+
+[params.about]
+title = "Furry Matrix"
+description = "A collection of ressources for furries... on Matrix."
+# unicode/emoji logo:
+logo = "🐾"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/furdation/furrymatrix.info"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup]
+
+# Table of contents
+# Add toc = true to content front matter to enable
+[markup.tableOfContents]
+startLevel = 2
+endLevel   = 3
+ordered    = true
