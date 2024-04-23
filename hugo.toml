@@ -1,0 +1,4 @@
+baseURL = 'https://furrymatrix.info/'
+languageCode = 'en-us'
+title = 'Furry Matrix'
+theme = 'risotto'
