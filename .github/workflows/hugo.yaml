@@ -39,7 +39,7 @@ jobs:
           fetch-depth: 0
       - name: Pages Setup
         id: pages
-        uses: actions/configure/pages@v4
+        uses: actions/configure-pages@v4
       - name: NodeJS depts
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build
