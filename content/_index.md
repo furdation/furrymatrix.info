@@ -21,9 +21,18 @@ If you wish to contribute, please open a PR on the [GitHub repository](https://g
 | Name | Software | Registrations | Website |
 | ---- | -------- | ------------- |---------|
 | furry.lol | Synapse | On Request | https://furry.lol |
+| bark.lgbt | Synapse | Open | https://chat.bark.lgbt |
 
-### Furry Places
+### Furry Chatrooms
 
-| Address | Topic |
-| ------- | ----- |
-| #furrytech.matrix.org | Tech |
+| Name | Address | Topic |
+| ---- | ------- | ----- |
+| Furry Tech | #furrytech.matrix.org   | Tech |
+| Furry Memes| #paws-memes:furry.lol   | Memes |
+
+### Furry Spaces
+
+| Name | Address |
+| ---- | ------- |
+| Furry Tech Community | #ftechspace:matrix.org |
+| Bark! Space | #bark:bark.lgbt |
