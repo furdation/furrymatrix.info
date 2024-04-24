@@ -18,10 +18,11 @@ If you wish to contribute, please open a PR on the [GitHub repository](https://g
 
 ### Furry Homeservers
 
-| Name      | Software | Registrations | Website                |
-|-----------|----------|---------------|------------------------|
-| furry.lol | Synapse  | On Request    | https://furry.lol      |
-| bark.lgbt | Synapse  | Open          | https://chat.bark.lgbt |
+| Name                                            | Software | Registrations | Website             |
+|-------------------------------------------------|----------|---------------|---------------------|
+| furry.lol                                       | Synapse  | On Request    | https://furry.lol   |
+| [bark.lgbt](https://chat.bark.lgbt)             | Synapse  | Open          | https://bark.lgbt   |
+| [matrix.bircat.cafe](https://chat.birdcat.cafe) | Synapse  | Open          | https://bircat.cafe |
 
 ### Furry Chatrooms
 
