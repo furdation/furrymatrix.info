@@ -25,10 +25,12 @@ If you wish to contribute, please open a PR on the [GitHub repository](https://g
 
 ### Furry Chatrooms
 
-| Name        | Address               | Topic |
-|-------------|-----------------------|-------|
-| Furry Tech  | #furrytech.matrix.org | Tech  |
-| Furry Memes | #paws-memes:furry.lol | Memes |
+| Name          | Address                  | Topic   |
+|---------------|--------------------------|---------|
+| Furry Tech    | #furrytech.matrix.org    | Tech    |
+| Furry Memes   | #paws-memes:furry.lol    | Memes   |
+| Furry Gayming | #furry-gayming:bark.lgbt | Gaming  |
+| Bark! Chat    | #bark-chat:bark.lgbt     | General |
 
 ### Furry Spaces
 
