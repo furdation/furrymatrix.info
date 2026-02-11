@@ -20,7 +20,6 @@ If you wish to contribute, please open a PR on the [GitHub repository](https://g
 
 | Name                                             | Software | Registrations | Website                         |
 |--------------------------------------------------|----------|---------------|---------------------------------|
-| furry.lol                                        | Synapse  | Closed        | https://furry.lol               |
 | [bark.lgbt](https://chat.bark.lgbt)              | Synapse  | Open          | https://bark.lgbt               |
 | [matrix.birdcat.cafe](https://chat.birdcat.cafe) | Synapse  | Open          | https://birdcat.cafe            |
 | [furs.chat](https://element.furs.chat)           | Synapse  | Closed        | -                               |
@@ -32,7 +31,6 @@ If you wish to contribute, please open a PR on the [GitHub repository](https://g
 | Name          | Address                      | Topic   |
 |---------------|------------------------------|---------|
 | Furry Tech    | #furrytech.matrix.org        | Tech    |
-| Furry Memes   | #paws-memes:furry.lol        | Memes   |
 | Furry Gayming | #furry-gayming:bark.lgbt     | Gaming  |
 | Bark! Chat    | #bark-chat:bark.lgbt         | General |
 | BirdCat Chat  | #general:matrix.birdcat.cafe | General |
